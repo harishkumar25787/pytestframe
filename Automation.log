@@ -1,0 +1,333 @@
+07/12/2019 02:35:10 PM - loginpage - INFO: Element found with locator : Login  and locator type link
+07/12/2019 02:35:10 PM - loginpage - INFO: clicked on element with locator :Login locatorType :link
+07/12/2019 02:35:16 PM - loginpage - INFO: Element found with locator : user_email  and locator type id
+07/12/2019 02:35:16 PM - loginpage - INFO: Send data on element with :user_emaillocatorType :id
+07/12/2019 02:35:16 PM - loginpage - INFO: Element found with locator : user_password  and locator type id
+07/12/2019 02:35:16 PM - loginpage - INFO: Send data on element with :user_passwordlocatorType :id
+07/12/2019 02:35:17 PM - loginpage - INFO: Element found with locator : //input[@name='commit']  and locator type xpath
+07/12/2019 02:35:20 PM - loginpage - INFO: clicked on element with locator ://input[@name='commit'] locatorType :xpath
+07/12/2019 02:35:20 PM - practicepage - INFO: Element found with locator : Practice  and locator type link
+07/12/2019 02:35:20 PM - practicepage - INFO: clicked on element with locator :Practice locatorType :link
+07/12/2019 02:35:22 PM - practicepage - INFO: Element found with locator_properties name and locator_type :: id
+07/12/2019 02:35:23 PM - practicepage - INFO: Element found with locator_properties alertbtn and locator_type :: id
+07/12/2019 02:35:23 PM - practicepage - INFO: Element found with locator_properties confirmbtn and locator_type :: id
+07/12/2019 02:35:23 PM - practicepage - INFO:  Locator type xapthnot correct/supported
+07/12/2019 02:35:23 PM - practicepage - ERROR: Element not found with locator_properties//input[(@type='checkbox') and (@value = '%s')] and locator_typexapth
+07/12/2019 02:35:23 PM - practicepage - INFO:  Locator type xapthnot correct/supported
+07/12/2019 02:35:23 PM - practicepage - ERROR: Element not found with locator_properties//input[(@type= 'radio') and (@value = '%s')] and locator_typexapth
+07/12/2019 02:35:23 PM - practicepage - INFO: Element found with locator_properties //select[@id = 'carselect'] and locator_type :: xpath
+07/12/2019 02:35:23 PM - practicepage - INFO: Element found with locator_properties Practice and locator_type :: link
+07/12/2019 02:35:23 PM - TestStatus - ERROR: ### VERIFICATION FAILED ::  Practicage page verified 
+07/12/2019 02:35:23 PM - TestStatus - ERROR: ### VERIFICATION FAILED ::  Practicage page verified 
+07/12/2019 02:35:24 PM - TestStatus - ERROR: test_prac ### TEST FAILED
+07/12/2019 02:35:24 PM - TestStatus - ERROR: test_prac ### TEST FAILED
+07/12/2019 02:35:24 PM - practicepage - INFO: Element found with locator : name  and locator type id
+07/12/2019 02:35:24 PM - practicepage - INFO: Send data on element with :namelocatorType :id
+07/12/2019 02:35:24 PM - practicepage - INFO: Element found with locator : alertbtn  and locator type id
+07/12/2019 02:35:24 PM - practicepage - INFO: clicked on element with locator :alertbtn locatorType :id
+07/12/2019 02:35:26 PM - practicepage - INFO: Element found with locator : confirmbtn  and locator type id
+07/12/2019 02:35:26 PM - practicepage - INFO: clicked on element with locator :confirmbtn locatorType :id
+07/12/2019 02:35:29 PM - practicepage - INFO: Element found with locator : //input[@id='search-courses']  and locator type xpath
+07/12/2019 02:35:29 PM - practicepage - INFO: Send data on element with ://input[@id='search-courses']locatorType :xpath
+07/12/2019 02:35:29 PM - practicepage - INFO: Element found with locator : search-course-button  and locator type id
+07/12/2019 02:35:30 PM - practicepage - INFO: clicked on element with locator :search-course-button locatorType :id
+07/12/2019 02:35:39 PM - basepage - INFO: Welcome to Let's Kode It
+07/12/2019 02:35:39 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL ::  log was sucessful
+07/12/2019 02:35:39 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL ::  log was sucessful
+07/12/2019 02:35:39 PM - basepage - INFO: Welcome to Let's Kode It
+07/12/2019 02:35:39 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL ::  log out sucess
+07/12/2019 02:35:39 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL ::  log out sucess
+07/12/2019 02:35:39 PM - TestStatus - INFO: test_pract4logout ### TEST SUCCESSFUL
+07/12/2019 02:35:39 PM - TestStatus - INFO: test_pract4logout ### TEST SUCCESSFUL
+07/12/2019 02:40:27 PM - loginpage - INFO: Element found with locator : Login  and locator type link
+07/12/2019 02:40:27 PM - loginpage - INFO: clicked on element with locator :Login locatorType :link
+07/12/2019 02:40:32 PM - loginpage - INFO: Element found with locator : user_email  and locator type id
+07/12/2019 02:40:32 PM - loginpage - INFO: Send data on element with :user_emaillocatorType :id
+07/12/2019 02:40:32 PM - loginpage - INFO: Element found with locator : user_password  and locator type id
+07/12/2019 02:40:32 PM - loginpage - INFO: Send data on element with :user_passwordlocatorType :id
+07/12/2019 02:40:32 PM - loginpage - INFO: Element found with locator : //input[@name='commit']  and locator type xpath
+07/12/2019 02:40:35 PM - loginpage - INFO: clicked on element with locator ://input[@name='commit'] locatorType :xpath
+07/12/2019 02:40:35 PM - practicepage - INFO: Element found with locator : Practice  and locator type link
+07/12/2019 02:40:35 PM - practicepage - INFO: clicked on element with locator :Practice locatorType :link
+07/12/2019 02:40:37 PM - practicepage - INFO: Element found with locator_properties name and locator_type :: id
+07/12/2019 02:40:37 PM - practicepage - INFO: Element found with locator_properties alertbtn and locator_type :: id
+07/12/2019 02:40:37 PM - practicepage - INFO: Element found with locator_properties confirmbtn and locator_type :: id
+07/12/2019 02:40:37 PM - practicepage - INFO: Element found with locator_properties Practice and locator_type :: link
+07/12/2019 02:40:37 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL ::  Practicage page verified 
+07/12/2019 02:40:37 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL ::  Practicage page verified 
+07/12/2019 02:40:37 PM - TestStatus - INFO: test_prac ### TEST SUCCESSFUL
+07/12/2019 02:40:37 PM - TestStatus - INFO: test_prac ### TEST SUCCESSFUL
+07/12/2019 02:40:37 PM - practicepage - INFO: Element found with locator : //input[(@type='checkbox') and (@value = 'bmw')]  and locator type xpath
+07/12/2019 02:40:37 PM - practicepage - INFO: clicked on element with locator ://input[(@type='checkbox') and (@value = 'bmw')] locatorType :xpath
+07/12/2019 02:40:37 PM - practicepage - INFO: Element found with locator : //input[(@type='checkbox') and (@value = 'benz')]  and locator type xpath
+07/12/2019 02:40:37 PM - practicepage - INFO: clicked on element with locator ://input[(@type='checkbox') and (@value = 'benz')] locatorType :xpath
+07/12/2019 02:40:37 PM - practicepage - INFO: Element found with locator : //input[(@type= 'radio') and (@value = 'benz')]  and locator type xpath
+07/12/2019 02:40:37 PM - practicepage - INFO: clicked on element with locator ://input[(@type= 'radio') and (@value = 'benz')] locatorType :xpath
+07/12/2019 02:40:37 PM - practicepage - INFO: Element found with locator : name  and locator type id
+07/12/2019 02:40:37 PM - practicepage - INFO: Send data on element with :namelocatorType :id
+07/12/2019 02:40:37 PM - practicepage - INFO: Element found with locator : alertbtn  and locator type id
+07/12/2019 02:40:37 PM - practicepage - INFO: clicked on element with locator :alertbtn locatorType :id
+07/12/2019 02:40:40 PM - practicepage - INFO: Element found with locator : confirmbtn  and locator type id
+07/12/2019 02:40:40 PM - practicepage - INFO: clicked on element with locator :confirmbtn locatorType :id
+07/12/2019 02:40:42 PM - practicepage - INFO: Element found with locator : //input[@id='search-courses']  and locator type xpath
+07/12/2019 02:40:42 PM - practicepage - INFO: Send data on element with ://input[@id='search-courses']locatorType :xpath
+07/12/2019 02:40:42 PM - practicepage - INFO: Element found with locator : search-course-button  and locator type id
+07/12/2019 02:40:43 PM - practicepage - INFO: clicked on element with locator :search-course-button locatorType :id
+07/12/2019 02:40:51 PM - basepage - INFO: Welcome to Let's Kode It
+07/12/2019 02:40:51 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL ::  log was sucessful
+07/12/2019 02:40:51 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL ::  log was sucessful
+07/12/2019 02:40:51 PM - basepage - INFO: Welcome to Let's Kode It
+07/12/2019 02:40:51 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL ::  log out sucess
+07/12/2019 02:40:51 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL ::  log out sucess
+07/12/2019 02:40:51 PM - TestStatus - INFO: test_pract4logout ### TEST SUCCESSFUL
+07/12/2019 02:40:51 PM - TestStatus - INFO: test_pract4logout ### TEST SUCCESSFUL
+07/12/2019 02:58:15 PM - loginpage - INFO: Element found with locator : Login  and locator type link
+07/12/2019 02:58:15 PM - loginpage - INFO: clicked on element with locator :Login locatorType :link
+07/12/2019 02:58:21 PM - loginpage - INFO: Element found with locator : user_email  and locator type id
+07/12/2019 02:58:21 PM - loginpage - INFO: Send data on element with :user_emaillocatorType :id
+07/12/2019 02:58:21 PM - loginpage - INFO: Element found with locator : user_password  and locator type id
+07/12/2019 02:58:21 PM - loginpage - INFO: Send data on element with :user_passwordlocatorType :id
+07/12/2019 02:58:21 PM - loginpage - INFO: Element found with locator : //input[@name='commit']  and locator type xpath
+07/12/2019 02:58:25 PM - loginpage - INFO: clicked on element with locator ://input[@name='commit'] locatorType :xpath
+07/12/2019 02:58:25 PM - practicepage - INFO: Element found with locator : Practice  and locator type link
+07/12/2019 02:58:25 PM - practicepage - INFO: clicked on element with locator :Practice locatorType :link
+07/12/2019 02:58:27 PM - practicepage - INFO: Element found with locator_properties name and locator_type :: id
+07/12/2019 02:58:27 PM - practicepage - INFO: Element found with locator_properties alertbtn and locator_type :: id
+07/12/2019 02:58:27 PM - practicepage - INFO: Element found with locator_properties confirmbtn and locator_type :: id
+07/12/2019 02:58:27 PM - practicepage - INFO: Element found with locator_properties Practice and locator_type :: link
+07/12/2019 02:58:27 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL ::  Practicage page verified 
+07/12/2019 02:58:27 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL ::  Practicage page verified 
+07/12/2019 02:58:27 PM - TestStatus - INFO: test_prac ### TEST SUCCESSFUL
+07/12/2019 02:58:27 PM - TestStatus - INFO: test_prac ### TEST SUCCESSFUL
+07/12/2019 02:58:27 PM - practicepage - INFO: Element found with locator : //input[(@type='checkbox') and (@value = 'bmw')]  and locator type xpath
+07/12/2019 02:58:27 PM - practicepage - INFO: clicked on element with locator ://input[(@type='checkbox') and (@value = 'bmw')] locatorType :xpath
+07/12/2019 02:58:27 PM - practicepage - INFO: Element found with locator : //input[(@type='checkbox') and (@value = 'benz')]  and locator type xpath
+07/12/2019 02:58:27 PM - practicepage - INFO: clicked on element with locator ://input[(@type='checkbox') and (@value = 'benz')] locatorType :xpath
+07/12/2019 02:58:27 PM - practicepage - INFO: Element found with locator : //input[(@type= 'radio') and (@value = 'benz')]  and locator type xpath
+07/12/2019 02:58:27 PM - practicepage - INFO: clicked on element with locator ://input[(@type= 'radio') and (@value = 'benz')] locatorType :xpath
+07/12/2019 02:58:27 PM - practicepage - INFO: Element found with locator : name  and locator type id
+07/12/2019 02:58:27 PM - practicepage - INFO: Send data on element with :namelocatorType :id
+07/12/2019 02:58:27 PM - practicepage - INFO: Element found with locator : alertbtn  and locator type id
+07/12/2019 02:58:27 PM - practicepage - INFO: clicked on element with locator :alertbtn locatorType :id
+07/12/2019 02:58:30 PM - practicepage - INFO: Element found with locator : confirmbtn  and locator type id
+07/12/2019 02:58:30 PM - practicepage - INFO: clicked on element with locator :confirmbtn locatorType :id
+07/12/2019 02:58:32 PM - practicepage - INFO: Element found with locator : //input[@id='search-courses']  and locator type xpath
+07/12/2019 02:58:32 PM - practicepage - INFO: Send data on element with ://input[@id='search-courses']locatorType :xpath
+07/12/2019 02:58:32 PM - practicepage - INFO: Element found with locator : search-course-button  and locator type id
+07/12/2019 02:58:33 PM - practicepage - INFO: clicked on element with locator :search-course-button locatorType :id
+07/12/2019 02:58:42 PM - basepage - INFO: Welcome to Let's Kode It
+07/12/2019 02:58:42 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL ::  log was sucessful
+07/12/2019 02:58:42 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL ::  log was sucessful
+07/12/2019 02:58:42 PM - basepage - INFO: Welcome to Let's Kode It
+07/12/2019 02:58:42 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL ::  log out sucess
+07/12/2019 02:58:42 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL ::  log out sucess
+07/12/2019 02:58:42 PM - TestStatus - INFO: test_pract4logout ### TEST SUCCESSFUL
+07/12/2019 02:58:42 PM - TestStatus - INFO: test_pract4logout ### TEST SUCCESSFUL
+07/12/2019 03:00:19 PM - loginpage - INFO: Element found with locator : Login  and locator type link
+07/12/2019 03:00:19 PM - loginpage - INFO: clicked on element with locator :Login locatorType :link
+07/12/2019 03:00:25 PM - loginpage - INFO: Element found with locator : user_email  and locator type id
+07/12/2019 03:00:25 PM - loginpage - INFO: Send data on element with :user_emaillocatorType :id
+07/12/2019 03:00:25 PM - loginpage - INFO: Element found with locator : user_password  and locator type id
+07/12/2019 03:00:25 PM - loginpage - INFO: Send data on element with :user_passwordlocatorType :id
+07/12/2019 03:00:25 PM - loginpage - INFO: Element found with locator : //input[@name='commit']  and locator type xpath
+07/12/2019 03:00:28 PM - loginpage - INFO: clicked on element with locator ://input[@name='commit'] locatorType :xpath
+07/12/2019 03:00:28 PM - practicepage - INFO: Element found with locator : Practice  and locator type link
+07/12/2019 03:00:28 PM - practicepage - INFO: clicked on element with locator :Practice locatorType :link
+07/12/2019 03:00:30 PM - practicepage - INFO: Element found with locator_properties name and locator_type :: id
+07/12/2019 03:00:30 PM - practicepage - INFO: Element found with locator_properties alertbtn and locator_type :: id
+07/12/2019 03:00:30 PM - practicepage - INFO: Element found with locator_properties confirmbtn and locator_type :: id
+07/12/2019 03:00:30 PM - practicepage - INFO: Element found with locator_properties Practice and locator_type :: link
+07/12/2019 03:00:30 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL ::  Practicage page verified 
+07/12/2019 03:00:30 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL ::  Practicage page verified 
+07/12/2019 03:00:30 PM - TestStatus - INFO: test_prac ### TEST SUCCESSFUL
+07/12/2019 03:00:30 PM - TestStatus - INFO: test_prac ### TEST SUCCESSFUL
+07/12/2019 03:00:30 PM - practicepage - INFO: Element found with locator : //input[(@type='checkbox') and (@value = 'bmw')]  and locator type xpath
+07/12/2019 03:00:30 PM - practicepage - INFO: clicked on element with locator ://input[(@type='checkbox') and (@value = 'bmw')] locatorType :xpath
+07/12/2019 03:00:30 PM - practicepage - INFO: Element found with locator : //input[(@type='checkbox') and (@value = 'benz')]  and locator type xpath
+07/12/2019 03:00:30 PM - practicepage - INFO: clicked on element with locator ://input[(@type='checkbox') and (@value = 'benz')] locatorType :xpath
+07/12/2019 03:00:30 PM - practicepage - INFO: Element found with locator : //input[(@type= 'radio') and (@value = 'benz')]  and locator type xpath
+07/12/2019 03:00:30 PM - practicepage - INFO: clicked on element with locator ://input[(@type= 'radio') and (@value = 'benz')] locatorType :xpath
+07/12/2019 03:00:30 PM - practicepage - INFO: Element found with locator : name  and locator type id
+07/12/2019 03:00:30 PM - practicepage - INFO: Send data on element with :namelocatorType :id
+07/12/2019 03:00:30 PM - practicepage - INFO: Element found with locator : alertbtn  and locator type id
+07/12/2019 03:00:30 PM - practicepage - INFO: clicked on element with locator :alertbtn locatorType :id
+07/12/2019 03:00:32 PM - practicepage - INFO: Element found with locator : confirmbtn  and locator type id
+07/12/2019 03:00:33 PM - practicepage - INFO: clicked on element with locator :confirmbtn locatorType :id
+07/12/2019 03:00:35 PM - practicepage - INFO: Element found with locator : //input[@id='search-courses']  and locator type xpath
+07/12/2019 03:00:35 PM - practicepage - INFO: Send data on element with ://input[@id='search-courses']locatorType :xpath
+07/12/2019 03:00:35 PM - practicepage - INFO: Element found with locator : search-course-button  and locator type id
+07/12/2019 03:00:37 PM - practicepage - INFO: clicked on element with locator :search-course-button locatorType :id
+07/12/2019 03:00:46 PM - basepage - INFO: Welcome to Let's Kode It
+07/12/2019 03:00:46 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL ::  log was sucessful
+07/12/2019 03:00:46 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL ::  log was sucessful
+07/12/2019 03:00:46 PM - basepage - INFO: Welcome to Let's Kode It
+07/12/2019 03:00:46 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL ::  log out sucess
+07/12/2019 03:00:46 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL ::  log out sucess
+07/12/2019 03:00:46 PM - TestStatus - INFO: test_pract4logout ### TEST SUCCESSFUL
+07/12/2019 03:00:46 PM - TestStatus - INFO: test_pract4logout ### TEST SUCCESSFUL
+07/12/2019 03:10:43 PM - loginpage - INFO: Element found with locator : Login  and locator type link
+07/12/2019 03:10:43 PM - loginpage - INFO: clicked on element with locator :Login locatorType :link
+07/12/2019 03:10:49 PM - loginpage - INFO: Element found with locator : user_email  and locator type id
+07/12/2019 03:10:49 PM - loginpage - INFO: Send data on element with :user_emaillocatorType :id
+07/12/2019 03:10:49 PM - loginpage - INFO: Element found with locator : user_password  and locator type id
+07/12/2019 03:10:49 PM - loginpage - INFO: Send data on element with :user_passwordlocatorType :id
+07/12/2019 03:10:49 PM - loginpage - INFO: Element found with locator : //input[@name='commit']  and locator type xpath
+07/12/2019 03:10:52 PM - loginpage - INFO: clicked on element with locator ://input[@name='commit'] locatorType :xpath
+07/12/2019 03:10:53 PM - practicepage - INFO: Element found with locator : Practice  and locator type link
+07/12/2019 03:10:53 PM - practicepage - INFO: clicked on element with locator :Practice locatorType :link
+07/12/2019 03:10:56 PM - practicepage - INFO: Element found with locator_properties name and locator_type :: id
+07/12/2019 03:10:56 PM - practicepage - INFO: Element found with locator_properties alertbtn and locator_type :: id
+07/12/2019 03:10:56 PM - practicepage - INFO: Element found with locator_properties confirmbtn and locator_type :: id
+07/12/2019 03:10:56 PM - practicepage - INFO: Element found with locator_properties Practice and locator_type :: link
+07/12/2019 03:10:56 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL ::  Practicage page verified 
+07/12/2019 03:10:56 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL ::  Practicage page verified 
+07/12/2019 03:10:56 PM - TestStatus - INFO: test_prac ### TEST SUCCESSFUL
+07/12/2019 03:10:56 PM - TestStatus - INFO: test_prac ### TEST SUCCESSFUL
+07/12/2019 03:10:56 PM - practicepage - INFO: Element found with locator : //input[(@type='checkbox') and (@value = 'bmw')]  and locator type xpath
+07/12/2019 03:10:56 PM - practicepage - INFO: clicked on element with locator ://input[(@type='checkbox') and (@value = 'bmw')] locatorType :xpath
+07/12/2019 03:10:56 PM - practicepage - INFO: Element found with locator : //input[(@type='checkbox') and (@value = 'benz')]  and locator type xpath
+07/12/2019 03:10:56 PM - practicepage - INFO: clicked on element with locator ://input[(@type='checkbox') and (@value = 'benz')] locatorType :xpath
+07/12/2019 03:10:56 PM - practicepage - INFO: Element found with locator : //input[(@type= 'radio') and (@value = 'benz')]  and locator type xpath
+07/12/2019 03:10:56 PM - practicepage - INFO: clicked on element with locator ://input[(@type= 'radio') and (@value = 'benz')] locatorType :xpath
+07/12/2019 03:10:56 PM - practicepage - INFO: Element found with locator : name  and locator type id
+07/12/2019 03:10:57 PM - practicepage - INFO: Send data on element with :namelocatorType :id
+07/12/2019 03:10:57 PM - practicepage - INFO: Element found with locator : alertbtn  and locator type id
+07/12/2019 03:10:57 PM - practicepage - INFO: clicked on element with locator :alertbtn locatorType :id
+07/12/2019 03:10:59 PM - practicepage - INFO: Element found with locator : confirmbtn  and locator type id
+07/12/2019 03:10:59 PM - practicepage - INFO: clicked on element with locator :confirmbtn locatorType :id
+07/12/2019 03:11:01 PM - practicepage - INFO: Element found with locator : //input[@id='search-courses']  and locator type xpath
+07/12/2019 03:11:01 PM - practicepage - INFO: Send data on element with ://input[@id='search-courses']locatorType :xpath
+07/12/2019 03:11:01 PM - practicepage - INFO: Element found with locator : search-course-button  and locator type id
+07/12/2019 03:11:03 PM - practicepage - INFO: clicked on element with locator :search-course-button locatorType :id
+07/12/2019 03:11:13 PM - basepage - INFO: Welcome to Let's Kode It
+07/12/2019 03:11:13 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL ::  log was sucessful
+07/12/2019 03:11:13 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL ::  log was sucessful
+07/12/2019 03:11:13 PM - basepage - INFO: Welcome to Let's Kode It
+07/12/2019 03:11:13 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL ::  log out sucess
+07/12/2019 03:11:13 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL ::  log out sucess
+07/12/2019 03:11:13 PM - TestStatus - INFO: test_pract4logout ### TEST SUCCESSFUL
+07/12/2019 03:11:13 PM - TestStatus - INFO: test_pract4logout ### TEST SUCCESSFUL
+07/12/2019 03:14:31 PM - loginpage - INFO: Element found with locator : Login  and locator type link
+07/12/2019 03:14:31 PM - loginpage - INFO: clicked on element with locator :Login locatorType :link
+07/12/2019 03:14:37 PM - loginpage - INFO: Element found with locator : user_email  and locator type id
+07/12/2019 03:14:37 PM - loginpage - INFO: Send data on element with :user_emaillocatorType :id
+07/12/2019 03:14:37 PM - loginpage - INFO: Element found with locator : user_password  and locator type id
+07/12/2019 03:14:37 PM - loginpage - INFO: Send data on element with :user_passwordlocatorType :id
+07/12/2019 03:14:37 PM - loginpage - INFO: Element found with locator : //input[@name='commit']  and locator type xpath
+07/12/2019 03:14:40 PM - loginpage - INFO: clicked on element with locator ://input[@name='commit'] locatorType :xpath
+07/12/2019 03:14:40 PM - practicepage - INFO: Element found with locator : Practice  and locator type link
+07/12/2019 03:14:40 PM - practicepage - INFO: clicked on element with locator :Practice locatorType :link
+07/12/2019 03:14:42 PM - practicepage - INFO: Element found with locator_properties name and locator_type :: id
+07/12/2019 03:14:42 PM - practicepage - INFO: Element found with locator_properties alertbtn and locator_type :: id
+07/12/2019 03:14:42 PM - practicepage - INFO: Element found with locator_properties confirmbtn and locator_type :: id
+07/12/2019 03:14:42 PM - practicepage - INFO: Element found with locator_properties Practice and locator_type :: link
+07/12/2019 03:14:42 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL ::  Practicage page verified 
+07/12/2019 03:14:42 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL ::  Practicage page verified 
+07/12/2019 03:14:42 PM - TestStatus - INFO: test_prac ### TEST SUCCESSFUL
+07/12/2019 03:14:42 PM - TestStatus - INFO: test_prac ### TEST SUCCESSFUL
+07/12/2019 03:14:42 PM - practicepage - INFO: Element found with locator : //input[(@type='checkbox') and (@value = 'bmw')]  and locator type xpath
+07/12/2019 03:14:42 PM - practicepage - INFO: clicked on element with locator ://input[(@type='checkbox') and (@value = 'bmw')] locatorType :xpath
+07/12/2019 03:14:42 PM - practicepage - INFO: Element found with locator : //input[(@type='checkbox') and (@value = 'benz')]  and locator type xpath
+07/12/2019 03:14:42 PM - practicepage - INFO: clicked on element with locator ://input[(@type='checkbox') and (@value = 'benz')] locatorType :xpath
+07/12/2019 03:14:42 PM - practicepage - INFO: Element found with locator : //input[(@type= 'radio') and (@value = 'benz')]  and locator type xpath
+07/12/2019 03:14:42 PM - practicepage - INFO: clicked on element with locator ://input[(@type= 'radio') and (@value = 'benz')] locatorType :xpath
+07/12/2019 03:14:42 PM - practicepage - INFO: Element found with locator : name  and locator type id
+07/12/2019 03:14:43 PM - practicepage - INFO: Send data on element with :namelocatorType :id
+07/12/2019 03:14:43 PM - practicepage - INFO: Element found with locator : alertbtn  and locator type id
+07/12/2019 03:14:43 PM - practicepage - INFO: clicked on element with locator :alertbtn locatorType :id
+07/12/2019 03:14:45 PM - practicepage - INFO: Element found with locator : confirmbtn  and locator type id
+07/12/2019 03:14:45 PM - practicepage - INFO: clicked on element with locator :confirmbtn locatorType :id
+07/12/2019 03:14:47 PM - practicepage - INFO: Element found with locator : //input[@id='search-courses']  and locator type xpath
+07/12/2019 03:14:47 PM - practicepage - INFO: Send data on element with ://input[@id='search-courses']locatorType :xpath
+07/12/2019 03:14:47 PM - practicepage - INFO: Element found with locator : search-course-button  and locator type id
+07/12/2019 03:14:49 PM - practicepage - INFO: clicked on element with locator :search-course-button locatorType :id
+07/12/2019 03:15:03 PM - TestStatus - ERROR: ### VERIFICATION FAILED ::  log was sucessful
+07/12/2019 03:15:03 PM - TestStatus - ERROR: ### VERIFICATION FAILED ::  log was sucessful
+07/12/2019 03:15:06 PM - TestStatus - ERROR: ### VERIFICATION FAILED ::  log out sucess
+07/12/2019 03:15:06 PM - TestStatus - ERROR: ### VERIFICATION FAILED ::  log out sucess
+07/12/2019 03:15:07 PM - TestStatus - ERROR: test_pract4logout ### TEST FAILED
+07/12/2019 03:15:07 PM - TestStatus - ERROR: test_pract4logout ### TEST FAILED
+07/12/2019 03:17:37 PM - loginpage - INFO: Element found with locator : Login  and locator type link
+07/12/2019 03:17:37 PM - loginpage - INFO: clicked on element with locator :Login locatorType :link
+07/12/2019 03:17:43 PM - loginpage - INFO: Element found with locator : user_email  and locator type id
+07/12/2019 03:17:43 PM - loginpage - INFO: Send data on element with :user_emaillocatorType :id
+07/12/2019 03:17:43 PM - loginpage - INFO: Element found with locator : user_password  and locator type id
+07/12/2019 03:17:43 PM - loginpage - INFO: Send data on element with :user_passwordlocatorType :id
+07/12/2019 03:17:43 PM - loginpage - INFO: Element found with locator : //input[@name='commit']  and locator type xpath
+07/12/2019 03:17:46 PM - loginpage - INFO: clicked on element with locator ://input[@name='commit'] locatorType :xpath
+07/12/2019 03:17:46 PM - practicepage - INFO: Element found with locator : Practice  and locator type link
+07/12/2019 03:17:46 PM - practicepage - INFO: clicked on element with locator :Practice locatorType :link
+07/12/2019 03:17:48 PM - practicepage - INFO: Element found with locator_properties name and locator_type :: id
+07/12/2019 03:17:48 PM - practicepage - INFO: Element found with locator_properties alertbtn and locator_type :: id
+07/12/2019 03:17:48 PM - practicepage - INFO: Element found with locator_properties confirmbtn and locator_type :: id
+07/12/2019 03:17:48 PM - practicepage - INFO: Element found with locator_properties Practice and locator_type :: link
+07/12/2019 03:17:48 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL ::  Practicage page verified 
+07/12/2019 03:17:48 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL ::  Practicage page verified 
+07/12/2019 03:17:48 PM - TestStatus - INFO: test_prac ### TEST SUCCESSFUL
+07/12/2019 03:17:48 PM - TestStatus - INFO: test_prac ### TEST SUCCESSFUL
+07/12/2019 03:17:48 PM - practicepage - INFO: Element found with locator : //input[(@type='checkbox') and (@value = 'bmw')]  and locator type xpath
+07/12/2019 03:17:48 PM - practicepage - INFO: clicked on element with locator ://input[(@type='checkbox') and (@value = 'bmw')] locatorType :xpath
+07/12/2019 03:17:48 PM - practicepage - INFO: Element found with locator : //input[(@type='checkbox') and (@value = 'benz')]  and locator type xpath
+07/12/2019 03:17:48 PM - practicepage - INFO: clicked on element with locator ://input[(@type='checkbox') and (@value = 'benz')] locatorType :xpath
+07/12/2019 03:17:48 PM - practicepage - INFO: Element found with locator : //input[(@type= 'radio') and (@value = 'benz')]  and locator type xpath
+07/12/2019 03:17:48 PM - practicepage - INFO: clicked on element with locator ://input[(@type= 'radio') and (@value = 'benz')] locatorType :xpath
+07/12/2019 03:17:48 PM - practicepage - INFO: Element found with locator : name  and locator type id
+07/12/2019 03:17:48 PM - practicepage - INFO: Send data on element with :namelocatorType :id
+07/12/2019 03:17:48 PM - practicepage - INFO: Element found with locator : alertbtn  and locator type id
+07/12/2019 03:17:48 PM - practicepage - INFO: clicked on element with locator :alertbtn locatorType :id
+07/12/2019 03:17:50 PM - practicepage - INFO: Element found with locator : confirmbtn  and locator type id
+07/12/2019 03:17:50 PM - practicepage - INFO: clicked on element with locator :confirmbtn locatorType :id
+07/12/2019 03:17:53 PM - practicepage - INFO: Element found with locator : //input[@id='search-courses']  and locator type xpath
+07/12/2019 03:17:53 PM - practicepage - INFO: Send data on element with ://input[@id='search-courses']locatorType :xpath
+07/12/2019 03:17:53 PM - practicepage - INFO: Element found with locator : search-course-button  and locator type id
+07/12/2019 03:17:54 PM - practicepage - INFO: clicked on element with locator :search-course-button locatorType :id
+07/12/2019 03:18:03 PM - basepage - INFO: Welcome to Let's Kode It
+07/12/2019 03:18:03 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL ::  log was sucessful
+07/12/2019 03:18:03 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL ::  log was sucessful
+07/12/2019 03:18:03 PM - basepage - INFO: Welcome to Let's Kode It
+07/12/2019 03:18:03 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL ::  log out sucess
+07/12/2019 03:18:03 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL ::  log out sucess
+07/12/2019 03:18:03 PM - TestStatus - INFO: test_pract4logout ### TEST SUCCESSFUL
+07/12/2019 03:18:03 PM - TestStatus - INFO: test_pract4logout ### TEST SUCCESSFUL
+07/12/2019 03:25:00 PM - loginpage - INFO: Element found with locator : Login  and locator type link
+07/12/2019 03:25:00 PM - loginpage - INFO: clicked on element with locator :Login locatorType :link
+07/12/2019 03:25:05 PM - loginpage - INFO: Element found with locator : user_email  and locator type id
+07/12/2019 03:25:06 PM - loginpage - INFO: Send data on element with :user_emaillocatorType :id
+07/12/2019 03:25:06 PM - loginpage - INFO: Element found with locator : user_password  and locator type id
+07/12/2019 03:25:06 PM - loginpage - INFO: Send data on element with :user_passwordlocatorType :id
+07/12/2019 03:25:06 PM - loginpage - INFO: Element found with locator : //input[@name='commit']  and locator type xpath
+07/12/2019 03:25:09 PM - loginpage - INFO: clicked on element with locator ://input[@name='commit'] locatorType :xpath
+07/12/2019 03:25:09 PM - practicepage - INFO: Element found with locator : Practice  and locator type link
+07/12/2019 03:25:09 PM - practicepage - INFO: clicked on element with locator :Practice locatorType :link
+07/12/2019 03:25:11 PM - practicepage - INFO: Element found with locator_properties name and locator_type :: id
+07/12/2019 03:25:11 PM - practicepage - INFO: Element found with locator_properties alertbtn and locator_type :: id
+07/12/2019 03:25:11 PM - practicepage - INFO: Element found with locator_properties confirmbtn and locator_type :: id
+07/12/2019 03:25:11 PM - practicepage - INFO: Element found with locator_properties Practice and locator_type :: link
+07/12/2019 03:25:11 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL ::  Practicage page verified 
+07/12/2019 03:25:11 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL ::  Practicage page verified 
+07/12/2019 03:25:11 PM - TestStatus - INFO: test_prac ### TEST SUCCESSFUL
+07/12/2019 03:25:11 PM - TestStatus - INFO: test_prac ### TEST SUCCESSFUL
+07/12/2019 03:25:11 PM - practicepage - INFO: Element found with locator : //input[(@type='checkbox') and (@value = 'bmw')]  and locator type xpath
+07/12/2019 03:25:11 PM - practicepage - INFO: clicked on element with locator ://input[(@type='checkbox') and (@value = 'bmw')] locatorType :xpath
+07/12/2019 03:25:11 PM - practicepage - INFO: Element found with locator : //input[(@type='checkbox') and (@value = 'benz')]  and locator type xpath
+07/12/2019 03:25:11 PM - practicepage - INFO: clicked on element with locator ://input[(@type='checkbox') and (@value = 'benz')] locatorType :xpath
+07/12/2019 03:25:11 PM - practicepage - INFO: Element found with locator : //input[(@type= 'radio') and (@value = 'benz')]  and locator type xpath
+07/12/2019 03:25:11 PM - practicepage - INFO: clicked on element with locator ://input[(@type= 'radio') and (@value = 'benz')] locatorType :xpath
+07/12/2019 03:25:11 PM - practicepage - INFO: Element found with locator : name  and locator type id
+07/12/2019 03:25:11 PM - practicepage - INFO: Send data on element with :namelocatorType :id
+07/12/2019 03:25:11 PM - practicepage - INFO: Element found with locator : alertbtn  and locator type id
+07/12/2019 03:25:11 PM - practicepage - INFO: clicked on element with locator :alertbtn locatorType :id
+07/12/2019 03:25:13 PM - practicepage - INFO: Element found with locator : confirmbtn  and locator type id
+07/12/2019 03:25:13 PM - practicepage - INFO: clicked on element with locator :confirmbtn locatorType :id
+07/12/2019 03:25:15 PM - practicepage - INFO: Element found with locator : //input[@id='search-courses']  and locator type xpath
+07/12/2019 03:25:15 PM - practicepage - INFO: Send data on element with ://input[@id='search-courses']locatorType :xpath
+07/12/2019 03:25:15 PM - practicepage - INFO: Element found with locator : search-course-button  and locator type id
+07/12/2019 03:25:16 PM - practicepage - INFO: clicked on element with locator :search-course-button locatorType :id
+07/12/2019 03:25:26 PM - basepage - INFO: Welcome to Let's Kode It
+07/12/2019 03:25:26 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL ::  log was sucessful
+07/12/2019 03:25:26 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL ::  log was sucessful
+07/12/2019 03:25:26 PM - basepage - INFO: Welcome to Let's Kode It
+07/12/2019 03:25:26 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL ::  log out sucess
+07/12/2019 03:25:26 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL ::  log out sucess
+07/12/2019 03:25:26 PM - TestStatus - INFO: test_pract4logout ### TEST SUCCESSFUL
+07/12/2019 03:25:26 PM - TestStatus - INFO: test_pract4logout ### TEST SUCCESSFUL

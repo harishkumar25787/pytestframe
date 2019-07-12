@@ -1,0 +1,14 @@
+Seleniumdrivers.py         107 INFO     Element found with locator : Practice  and locator type link
+Seleniumdrivers.py         119 INFO     clicked on element with locator :Practice locatorType :link
+Seleniumdrivers.py         155 INFO     Element found with locator_properties name and locator_type :: id
+Seleniumdrivers.py         155 INFO     Element found with locator_properties alertbtn and locator_type :: id
+Seleniumdrivers.py         155 INFO     Element found with locator_properties confirmbtn and locator_type :: id
+Seleniumdrivers.py         155 INFO     Element found with locator_properties Practice and locator_type :: link
+test_status.py              22 INFO     ### VERIFICATION SUCCESSFUL ::  Practicage page verified 
+test_status.py              56 INFO     test_prac ### TEST SUCCESSFUL
+Seleniumdrivers.py         107 INFO     Element found with locator : //input[(@type='checkbox') and (@value = 'bmw')]  and locator type xpath
+Seleniumdrivers.py         119 INFO     clicked on element with locator ://input[(@type='checkbox') and (@value = 'bmw')] locatorType :xpath
+Seleniumdrivers.py         107 INFO     Element found with locator : //input[(@type='checkbox') and (@value = 'benz')]  and locator type xpath
+Seleniumdrivers.py         119 INFO     clicked on element with locator ://input[(@type='checkbox') and (@value = 'benz')] locatorType :xpath
+Seleniumdrivers.py         107 INFO     Element found with locator : //input[(@type= 'radio') and (@value = 'benz')]  and locator type xpath
+Seleniumdrivers.py         119 INFO     clicked on element with locator ://input[(@type= 'radio') and (@value = 'benz')] locatorType :xpath

@@ -1,0 +1,6 @@
+Seleniumdrivers.py         107 INFO     Element found with locator : name  and locator type id
+Seleniumdrivers.py         130 INFO     Send data on element with :namelocatorType :id
+Seleniumdrivers.py         107 INFO     Element found with locator : alertbtn  and locator type id
+Seleniumdrivers.py         119 INFO     clicked on element with locator :alertbtn locatorType :id
+Seleniumdrivers.py         107 INFO     Element found with locator : confirmbtn  and locator type id
+Seleniumdrivers.py         119 INFO     clicked on element with locator :confirmbtn locatorType :id

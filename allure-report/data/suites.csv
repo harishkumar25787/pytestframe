@@ -1,0 +1,8 @@
+"Status","Name","Duration in ms","Description"
+"skipped","test_case.test_loginer.Testloginpage#test_login1","0",""
+"passed","test_case.test_practice.Testpractic#test_login2","8668",""
+"skipped","test_case.test_loginer.Testloginpage#test_logout","0",""
+"passed","test_case.test_practice.Testpractic#test_prac","2274",""
+"passed","test_case.test_practice.Testpractic#test_pract3","1532",""
+"passed","test_case.test_practice.Testpractic#test_pract2","4295",""
+"passed","test_case.test_practice.Testpractic#test_pract4logout","9250",""

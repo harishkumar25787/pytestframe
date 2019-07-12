@@ -1,0 +1,5 @@
+basepage.py                 23 INFO     Welcome to Let's Kode It
+test_status.py              22 INFO     ### VERIFICATION SUCCESSFUL ::  log was sucessful
+basepage.py                 23 INFO     Welcome to Let's Kode It
+test_status.py              22 INFO     ### VERIFICATION SUCCESSFUL ::  log out sucess
+test_status.py              56 INFO     test_pract4logout ### TEST SUCCESSFUL

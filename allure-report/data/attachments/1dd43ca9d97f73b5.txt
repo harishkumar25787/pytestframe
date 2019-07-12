@@ -1,0 +1,8 @@
+Seleniumdrivers.py         107 INFO     Element found with locator : Login  and locator type link
+Seleniumdrivers.py         119 INFO     clicked on element with locator :Login locatorType :link
+Seleniumdrivers.py         107 INFO     Element found with locator : user_email  and locator type id
+Seleniumdrivers.py         130 INFO     Send data on element with :user_emaillocatorType :id
+Seleniumdrivers.py         107 INFO     Element found with locator : user_password  and locator type id
+Seleniumdrivers.py         130 INFO     Send data on element with :user_passwordlocatorType :id
+Seleniumdrivers.py         107 INFO     Element found with locator : //input[@name='commit']  and locator type xpath
+Seleniumdrivers.py         119 INFO     clicked on element with locator ://input[@name='commit'] locatorType :xpath

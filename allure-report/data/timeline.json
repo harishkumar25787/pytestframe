@@ -1,0 +1,97 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "XTV-HSHOLAPUR",
+    "children" : [ {
+      "name" : "21544-MainThread",
+      "children" : [ {
+        "name" : "test_login1",
+        "uid" : "942d24f74693be09",
+        "parentUid" : "960f7240f4de1ad078197d7d9db70d3a",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1562924816219,
+          "stop" : 1562924816219,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login2",
+        "uid" : "a67df7f5f32ca16c",
+        "parentUid" : "960f7240f4de1ad078197d7d9db70d3a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562924857685,
+          "stop" : 1562924866353,
+          "duration" : 8668
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_logout",
+        "uid" : "d5ae9ba5b98087a9",
+        "parentUid" : "960f7240f4de1ad078197d7d9db70d3a",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1562924839948,
+          "stop" : 1562924839948,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_prac",
+        "uid" : "745e478edeee83ef",
+        "parentUid" : "960f7240f4de1ad078197d7d9db70d3a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562924866399,
+          "stop" : 1562924868673,
+          "duration" : 2274
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_pract3",
+        "uid" : "4fca6e306c93cc74",
+        "parentUid" : "960f7240f4de1ad078197d7d9db70d3a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562924873075,
+          "stop" : 1562924874607,
+          "duration" : 1532
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_pract2",
+        "uid" : "c78cc807e38f6793",
+        "parentUid" : "960f7240f4de1ad078197d7d9db70d3a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562924868697,
+          "stop" : 1562924872992,
+          "duration" : 4295
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_pract4logout",
+        "uid" : "34b15b92d04e7f96",
+        "parentUid" : "960f7240f4de1ad078197d7d9db70d3a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562924874641,
+          "stop" : 1562924883891,
+          "duration" : 9250
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "960f7240f4de1ad078197d7d9db70d3a"
+    } ],
+    "uid" : "e119b1db11983faa5df5c2ccc6e7333f"
+  } ]
+}

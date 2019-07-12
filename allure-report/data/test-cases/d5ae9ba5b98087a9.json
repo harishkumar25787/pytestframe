@@ -1,0 +1,185 @@
+{
+  "uid" : "d5ae9ba5b98087a9",
+  "name" : "test_logout",
+  "fullName" : "test_case.test_loginer.Testloginpage#test_logout",
+  "historyId" : "8737bc9c427982580d695e455f9c273b",
+  "time" : {
+    "start" : 1562924839948,
+    "stop" : 1562924839948,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "statusMessage" : "Skipped: Excluded from current execution",
+  "statusTrace" : "('C:\\\\Users\\\\hsholapur\\\\PycharmProjects\\\\pytestframe\\\\test_case\\\\test_loginer.py', 23, 'Skipped: Excluded from current execution')",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "base_url",
+    "time" : {
+      "start" : 1562924816222,
+      "stop" : 1562924816222,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "classsetup",
+    "time" : {
+      "start" : 1562924839949,
+      "stop" : 1562924839952,
+      "duration" : 3
+    },
+    "status" : "skipped",
+    "statusMessage" : "Skipped: Excluded from current execution \n",
+    "statusTrace" : "  File \"c:\\python37\\lib\\site-packages\\pluggy\\callers.py\", line 187, in _multicall\n    res = hook_impl.function(*args)\n  File \"c:\\python37\\lib\\site-packages\\_pytest\\fixtures.py\", line 969, in pytest_fixture_setup\n    result = call_fixture_func(fixturefunc, request, kwargs)\n  File \"c:\\python37\\lib\\site-packages\\_pytest\\fixtures.py\", line 828, in call_fixture_func\n    res = fixturefunc(**kwargs)\n  File \"C:\\Users\\hsholapur\\PycharmProjects\\pytestframe\\test_case\\test_loginer.py\", line 23, in classsetup\n    pytest.skip(\"Excluded from current execution \")\n  File \"c:\\python37\\lib\\site-packages\\_pytest\\outcomes.py\", line 98, in skip\n    raise Skipped(msg=msg, allow_module_level=allow_module_level)\n",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true,
+    "stepsCount" : 0
+  }, {
+    "name" : "sensitive_url",
+    "time" : {
+      "start" : 1562924816222,
+      "stop" : 1562924816222,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "test_setup",
+    "time" : {
+      "start" : 1562924816222,
+      "stop" : 1562924839892,
+      "duration" : 23670
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "_skip_sensitive",
+    "time" : {
+      "start" : 1562924839949,
+      "stop" : 1562924839949,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "_verify_url",
+    "time" : {
+      "start" : 1562924816222,
+      "stop" : 1562924816222,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "skipped",
+    "statusMessage" : "Skipped: Excluded from current execution",
+    "statusTrace" : "('C:\\\\Users\\\\hsholapur\\\\PycharmProjects\\\\pytestframe\\\\test_case\\\\test_loginer.py', 23, 'Skipped: Excluded from current execution')",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "5ad3743bb61edfed",
+      "name" : "stdout",
+      "source" : "5ad3743bb61edfed.txt",
+      "type" : "text/plain",
+      "size" : 19
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ {
+    "name" : "test_setup::0",
+    "time" : {
+      "start" : 1562924839960,
+      "stop" : 1562924842381,
+      "duration" : 2421
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "order2"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_case"
+  }, {
+    "name" : "suite",
+    "value" : "test_loginer"
+  }, {
+    "name" : "subSuite",
+    "value" : "Testloginpage"
+  }, {
+    "name" : "host",
+    "value" : "XTV-HSHOLAPUR"
+  }, {
+    "name" : "thread",
+    "value" : "21544-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test_loginer"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "order2" ]
+  },
+  "source" : "d5ae9ba5b98087a9.json",
+  "parameterValues" : [ ]
+}

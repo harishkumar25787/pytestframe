@@ -1,0 +1,4 @@
+Seleniumdrivers.py         107 INFO     Element found with locator : //input[@id='search-courses']  and locator type xpath
+Seleniumdrivers.py         130 INFO     Send data on element with ://input[@id='search-courses']locatorType :xpath
+Seleniumdrivers.py         107 INFO     Element found with locator : search-course-button  and locator type id
+Seleniumdrivers.py         119 INFO     clicked on element with locator :search-course-button locatorType :id
